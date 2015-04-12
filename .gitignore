@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-reated by https://www.gitignore.io
-=======
-# Created by https://www.gitignore.io
->>>>>>> dc8387a1ee2cecec35c79969edf68450ed9dc583
-
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 
@@ -64,6 +58,8 @@ release.properties
 
 >>>>>>> dc8387a1ee2cecec35c79969edf68450ed9dc583
 ### Java ###
+=======
+>>>>>>> aa9d1f86e56d9b2be8453f23160744661ea37894
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -76,6 +72,7 @@ release.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
@@ -168,3 +165,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+=======
+>>>>>>> aa9d1f86e56d9b2be8453f23160744661ea37894
